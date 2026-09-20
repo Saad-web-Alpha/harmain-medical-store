@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saad-web-alpha.github.io/harmain-medical-store/sitemap.xml
